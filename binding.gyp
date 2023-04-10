@@ -1,8 +1,8 @@
 {
   'targets': [
     {
-      'target_name': 'fibonacci',
-      'sources': [ 'src/fibonacci.cc' ],
+      'target_name': 'bash',
+      'sources': [ 'src/bash.cc' ],
     }
   ]
 }
